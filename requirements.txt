@@ -1,0 +1,52 @@
+langchain
+langchain-openai
+langchain-huggingface
+langchain-chroma
+chromadb
+mistralai
+vnstock==3.4.2
+vnai==2.3.9
+pandas
+mplfinance
+python-dotenv
+beautifulsoup4
+google-search-results
+llama-index
+llama-index-llms-openai-like
+llama-index-embeddings-gemini
+ragas
+datasets
+pandas
+langchain-google-genai
+tenacity
+llama-index-embeddings-huggingface
+transformers
+torch
+langchain-huggingface
+sentence-transformers>=3.0.0
+huggingface_hub>=0.23.0
+accelerate>=0.30.0
+safetensors>=0.4.3
+unidecode
+scikit-learn
+faiss-cpu
+rank_bm25
+tqdm
+openai
+lightrag-hku>=0.0.12
+streamlit
+yfinance
+matplotlib
+requests
+python-dotenv
+xgboost
+scikit-learn
+mcp
+mcp[cli]
+sqlalchemy
+# stable-baselines3[extra]
+# gymnasium
+# shimmy
+# ta 
+# plotly
+aiohttp
